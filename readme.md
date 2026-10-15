@@ -1,6 +1,6 @@
 # Network Service Availability Prediction
 
-**Case Study 29: ML framework for anomaly classification and service-risk estimation on telecom KPI time series**
+**ML framework for anomaly classification and service-risk estimation on telecom KPI time series**
 
 Telecom operators log high-frequency KPI telemetry (RSRP, BLER, MCS, PRB usage, traffic counters) to keep services within their SLAs. This project classifies whether a telemetry trace contains an anomaly, using statistical features extracted from multi-dimensional KPI time series. It is built to work under severe class imbalance (about 3.86% anomalous traces) while keeping the false alarm rate close to zero.
 
