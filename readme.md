@@ -253,17 +253,18 @@ predict_record(test_row_index)
 
 ## Authors
 
-- Charagundla Hemanth Sai
 - Gandla Srujan
+- Charagundla Hemanth Sai
 - Cheemala Chaitanya Kumar Reddy
 
-Department of Artificial Intelligence and Data Science, Chaitanya Bharathi Institute of Technology, Hyderabad, Telangana, India
+Department of Artificial Intelligence and Data Science
+Chaitanya Bharathi Institute of Technology, Hyderabad, Telangana, India
 
 ---
 
 ## Acknowledgements
 
-Thanks to the open-source communities behind Python, scikit-learn, pandas and NumPy.
+Thanks to the open-source communities behind Python, scikit-learn, pandas, and NumPy.
 
 ## License
 
